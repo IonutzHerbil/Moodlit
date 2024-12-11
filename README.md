@@ -9,4 +9,3 @@ When morning comes, an alarm starts gradually, singing a random child song downl
 
 The communication between the sensors and the laptop is realized via Arduino Uno.
 
-State diagram of the application NEADORMIT (1)
